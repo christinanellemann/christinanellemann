@@ -1,4 +1,4 @@
-#![Banner1](https://github.com/christinanellemann/christinanellemann/assets/72600995/ec59bbcf-3f94-473b-9609-dfec0c90b0be)
+![Banner1](https://github.com/christinanellemann/christinanellemann/assets/72600995/ec59bbcf-3f94-473b-9609-dfec0c90b0be)
 
 ## Hi, I'm Christina 👋 
 #
