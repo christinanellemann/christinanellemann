@@ -38,5 +38,6 @@ IDEs:
 #
 [![GitHub Streak](https://streak-stats.demolab.com?user=christinanellemann&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/codingincouture)
 
 
